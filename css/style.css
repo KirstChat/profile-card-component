@@ -84,12 +84,12 @@ body {
 }
 
 .card__profile-text .age {
-  margin-left: 0.5rem;
+  margin-left: 3px;
 }
 
 .card__profile-text .location {
   font-size: 14px;
-  padding-top: 10px;
+  padding-top: 0.5rem;
 }
 
 .card__profile-stats {
@@ -102,7 +102,7 @@ body {
 .card__profile-stats .stat p {
   font-size: 10px;
   letter-spacing: 1.5px;
-  margin-top: 0.5rem;
+  margin-top: 4px;
 }
 
 /* Footer */
@@ -120,7 +120,7 @@ body {
 /* Media Queires */
 @media screen and (min-width: 1024px) {
   body {
-    background-position: left -310px bottom 170px, right -200px top 400px;
+    background-position: left -310px bottom 280px, right -180px top 420px;
     background-size: auto;
   }
 }
