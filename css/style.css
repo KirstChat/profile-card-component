@@ -47,7 +47,7 @@ body {
   background: url('../images/bg-pattern-card.svg') no-repeat top center / cover;
   border-radius: 15px 15px 0 0;
   height: 140px;
-  margin-bottom: 72px;
+  margin-bottom: 4rem;
 }
 
 .card__profile-img {
@@ -101,7 +101,7 @@ body {
 .card__profile-stats .stat p {
   font-size: 10px;
   letter-spacing: 1.5px;
-  margin-top: 10px;
+  margin-top: 0.5rem;
 }
 
 /* Footer */
