@@ -26,8 +26,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Solution URL: [https://www.frontendmentor.io/solutions/solution-for-profile-card-FikfekYNn](https://www.frontendmentor.io/solutions/solution-for-profile-card-FikfekYNn)
 - Live Site URL: [https://kirstchat.github.io/profile-card-component/](https://kirstchat.github.io/profile-card-component/)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
