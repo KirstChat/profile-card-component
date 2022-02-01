@@ -4,16 +4,13 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
+- [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-  - [Built with](#built-with)
-  - [Author](#author)
+- [Built with](#built-with)
+- [Author](#author)
 
-## Overview
-
-### The challenge
+## The challenge
 
 - Build out the project to the designs provided
 
@@ -26,15 +23,14 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Solution URL: [https://www.frontendmentor.io/solutions/solution-for-profile-card-FikfekYNn](https://www.frontendmentor.io/solutions/solution-for-profile-card-FikfekYNn)
 - Live Site URL: [https://kirstchat.github.io/profile-card-component/](https://kirstchat.github.io/profile-card-component/)
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
 
-### Author
+## Author
 
-- LinkedIn - [Kirsty Chatterton](https://www.linkedin.com/in/kirsty-c-154781a4/)
-- Github - [KirstChat](https://github.com/KirstChat)
 - Frontend Mentor - [@KirstChat](https://www.frontendmentor.io/profile/KirstChat)
+- LinkedIn - [Kirsty Chatterton](https://www.linkedin.com/in/kirsty-c-154781a4/)
